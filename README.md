@@ -1,5 +1,5 @@
 # Laravel Server Requirements Checker
-Check if your server meets all the requirements to run the specific laravel version.
+If you are not using Homestead, you will need to make sure your server meets all the requirements to run the specific laravel version.
 
 ## Developed By
 [Ravikumar Chauhan](https://twitter.com/rkchauhan01)
